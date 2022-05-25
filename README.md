@@ -1,5 +1,6 @@
 ### Hi, I'm Ethan! 👋
 
+I'm a junior studying Computer Science at Columbia University with a minor in Operations Research.
 <!--
 **ew2664/ew2664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
