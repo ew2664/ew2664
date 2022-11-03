@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ew2664&theme=swift&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![@ew2664's Holopin board](https://holopin.io/api/user/board?user=ew2664)](https://holopin.io/@ew2664)
+<!-- [![@ew2664's Holopin board](https://holopin.io/api/user/board?user=ew2664)](https://holopin.io/@ew2664) -->
