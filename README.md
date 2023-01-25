@@ -1,6 +1,6 @@
 ### Hi, I'm Ethan! 👋
 
-I'm a rising senior studying Computer Science at Columbia University with a minor in Operations Research.
+I'm a senior studying Computer Science at Columbia University with a minor in Operations Research.
 <!--
 **ew2664/ew2664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ew2664&theme=swift&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ew2664&theme=swift&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ew2664&theme=swift&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ew2664&theme=swift&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ew2664)](https://git.io/streak-stats)
 
 <!-- [![@ew2664's Holopin board](https://holopin.io/api/user/board?user=ew2664)](https://holopin.io/@ew2664) -->
