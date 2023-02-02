@@ -42,7 +42,7 @@ I'm a fourth-year undergraduate studying Computer Science and Operations Researc
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
   ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
+  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/-graphql-E10098?style=flat-square&logo=graphql&logoColor=white)
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
