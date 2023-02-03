@@ -35,6 +35,7 @@ I'm a fourth-year undergraduate studying Computer Science and Operations Researc
 <details>
   <summary>I've also spent time working with ...</summary>
   
+  ![Apollo-GraphQL](https://img.shields.io/badge/-apollo--graphql-311C87?style=flat-square&logo=apollo-graphql)
   ![Ant-Design](https://img.shields.io/badge/-antdesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
