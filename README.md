@@ -27,7 +27,7 @@ I'm a fourth-year undergraduate studying Computer Science and Operations Researc
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
+  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 </details>
 
@@ -55,6 +55,7 @@ I'm a fourth-year undergraduate studying Computer Science and Operations Researc
   ![Neo4J](https://img.shields.io/badge/neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
   ![Octave](https://img.shields.io/badge/octave-darkblue?style=flat-square&logo=octave&logoColor=fcd683)
+  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
